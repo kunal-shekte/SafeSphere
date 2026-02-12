@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#FF4081</color>
+    <color name="background">#F5F9FF</color>
+    <color name="black">#000000</color>
+    <color name="blueDark">#0D47A1</color>
+    <color name="bluePrimary">#1976D2</color>
+    <color name="ic_launcher_background">#FFFFFF</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">SafeSphere</string>
+    <style name="Theme.SafeSphere" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/bluePrimary</item>
+        <item name="colorPrimaryVariant">@color/blueDark</item>
+        <item name="colorAccent">@color/accent</item>
+        <item name="android:statusBarColor">@color/blueDark</item>
+        <item name="android:navigationBarColor">@color/blueDark</item>
+    </style>
+    <style name="Theme.SafeSphere.FakeCall" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@color/blueDark</item>
+        <item name="android:navigationBarColor">@color/blueDark</item>
+    </style>
+</resources>

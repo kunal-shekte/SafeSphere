@@ -1,0 +1,8 @@
+<resources>
+    <color name="bluePrimary">#1976D2</color>
+    <color name="blueDark">#0D47A1</color>
+    <color name="accent">#FF4081</color>
+    <color name="white">#FFFFFF</color>
+    <color name="background">#F5F9FF</color>
+    <color name="black">#000000</color>
+</resources>

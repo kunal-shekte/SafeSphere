@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "com.example.safesphere.app-debug-34:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.safesphere.app-main-36:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.safesphere.app-debug-34:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.safesphere.app-main-36:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.safesphere.app-debug-34:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.safesphere.app-main-36:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.safesphere.app-debug-34:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.safesphere.app-main-36:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.safesphere.app-debug-34:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.safesphere.app-main-36:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.safesphere.app-debug-34:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.safesphere.app-main-36:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.safesphere.app-debug-34:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.safesphere.app-main-36:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.safesphere.app-debug-34:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.safesphere.app-main-36:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.safesphere.app-debug-34:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.safesphere.app-main-36:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.safesphere.app-debug-34:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.safesphere.app-main-36:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.safesphere.app-debug-34:/drawable_fake_call_avatar_bg.xml.flat",
+        "source": "com.example.safesphere.app-main-36:/drawable/fake_call_avatar_bg.xml"
+    },
+    {
+        "merged": "com.example.safesphere.app-debug-34:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.safesphere.app-main-36:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.safesphere.app-debug-34:/layout_activity_main.xml.flat",
+        "source": "com.example.safesphere.app-main-36:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.safesphere.app-debug-34:/raw_img.png.flat",
+        "source": "com.example.safesphere.app-main-36:/raw/img.png"
+    },
+    {
+        "merged": "com.example.safesphere.app-debug-34:/layout_activity_profile.xml.flat",
+        "source": "com.example.safesphere.app-main-36:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "com.example.safesphere.app-debug-34:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.safesphere.app-main-36:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.safesphere.app-debug-34:/layout_activity_register.xml.flat",
+        "source": "com.example.safesphere.app-main-36:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.safesphere.app-debug-34:/layout_activity_login.xml.flat",
+        "source": "com.example.safesphere.app-main-36:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.safesphere.app-debug-34:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.safesphere.app-main-36:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.safesphere.app-debug-34:/raw_fake_ringtone.mp3.flat",
+        "source": "com.example.safesphere.app-main-36:/raw/fake_ringtone.mp3"
+    },
+    {
+        "merged": "com.example.safesphere.app-debug-34:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.safesphere.app-main-36:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.safesphere.app-debug-34:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.safesphere.app-main-36:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.safesphere.app-debug-34:/layout_activity_fake_call.xml.flat",
+        "source": "com.example.safesphere.app-main-36:/layout/activity_fake_call.xml"
+    },
+    {
+        "merged": "com.example.safesphere.app-debug-34:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.safesphere.app-main-36:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.safesphere.app-debug-34:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.safesphere.app-main-36:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.safesphere.app-debug-34:/raw_siren.mp3.flat",
+        "source": "com.example.safesphere.app-main-36:/raw/siren.mp3"
+    },
+    {
+        "merged": "com.example.safesphere.app-debug-34:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.safesphere.app-main-36:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    }
+]
