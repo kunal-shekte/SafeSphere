@@ -1,0 +1,34 @@
+# Gradle files
+.gradle/
+build/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+.DS_Store
+
+# Build outputs
+/app/build/
+/app/captures/
+.externalNativeBuild
+.cxx/
+
+# Google Services (should be ignored if this is a public repo, otherwise keep)
+# google-services.json
+
+# Keystores
+*.jks
+*.keystore
+
+# Temporary logs and recordings from debugging
+*.log
+*.txt
+*.mp4
+app_logs.txt
+full_logs.txt
+current_log.txt
